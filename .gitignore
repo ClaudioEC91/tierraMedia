@@ -13,3 +13,5 @@ target/classes/persistence/impl/ItinerarioDAOImpl.class
 target/classes/persistence/impl/PromocionDAOImpl.class
 target/classes/persistence/impl/UsuarioDAOImpl.class
 target/m2e-wtp/web-resources/META-INF/maven/LosDiscipulos/tierraMedia/pom.properties
+bin
+target
